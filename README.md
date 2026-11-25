@@ -35,3 +35,12 @@ R · R Markdown · dplyr · ggplot2 · psych · car · nortest · lmtest · corr
 ## Cara menjalankan
 
 Buka `analisis_keletihan_mahasiswa.Rmd` di RStudio, lalu klik **Knit**. Paket yang dibutuhkan akan terpasang otomatis.
+
+## Dokumen dan Bukti Pengerjaan
+
+| File | Isi |
+|---|---|
+| [`laporan/jurnal_analisis_keletihan.pdf`](laporan/jurnal_analisis_keletihan.pdf) | Jurnal ilmiah ringkasan penelitian |
+| [`laporan/laporan_analisis_keletihan.pdf`](laporan/laporan_analisis_keletihan.pdf) | Laporan penelitian lengkap (Bab I sampai V) |
+
+> Data pribadi anggota tim (nama, NIM, email) sudah dihapus dari dokumen.
